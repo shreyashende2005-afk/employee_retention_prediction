@@ -141,7 +141,7 @@ st.markdown(f"""
 
 <div class="hero-container">
     <div class="hero-text">
-        <h1>📊 Employee Job Change Prediction</h1>
+        <h1>📊 Employee Retention Prediction</h1>
         <p>Predict whether an employee is likely to leave the company based on profile and work experience.</p>
     </div>
 </div>
